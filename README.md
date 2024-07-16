@@ -11,6 +11,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=devcaiada&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
+<div><br /></div>
+
 <img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 <div><br /></div>
@@ -63,6 +65,8 @@
 			<td valign="top">
 			<h3>ETL Netflix</h3>
 			<p>A python study with ETL using Netflix data.</p>
+			<a href="https://github.com/devcaiada/etl-netflix/tree/main">
+ 			 	<img src="https://img.shields.io/badge/Ver%20material-FFC222?style=for-the-badge" alt="Material de Apoio">
 			</td>
 		</tr>
 	</tbody>
