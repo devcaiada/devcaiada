@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Data Analyst • ML Specialist
+  Data Scientist • ML Specialist
 </h3>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 ## &nbsp;About me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="25" height="25" /> Hello there! My name is Caio Arruda and I am a Data Analyst. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="25" height="25" /> Hello there! My name is Caio Arruda and I am a Data Engineer. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="25" height="25" /> My current goal is become a Data Scientist.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My main stack is Python.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I am a technology enthusiast, consistently seeking to expand my knowledge.<br />
