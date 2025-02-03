@@ -24,23 +24,25 @@
 
 <div><br /></div>
 
-## &nbsp;My Stack
+## &nbsp;My Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="30" height="30" />
 
 <img src="https://github.com/devcaiada/devcaiada/blob/main/assets/stack.png?raw=true" />
 
-## &nbsp;About me
+<div><br /></div>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="25" height="25" /> Hello there! My name is Caio Arruda and I am a Data Engineer. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="25" height="25" /> My current goal is become a Data Scientist.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My main stack is Python.<br />
+## &nbsp;About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Light%20Skin%20Tone.png" alt="Detective Light Skin Tone" width="30" height="30" />
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="25" height="25" /> Hello there! My name is **Caio Arruda** and I am a **Data Analyst**. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="25" height="25" /> My current goal is become a **Data Scientist**.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My main stack is **Python**.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I am a technology enthusiast, consistently seeking to expand my knowledge.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> I am currently learning AI, Machine Learning and Deep Learning.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Currently, I am studying **statistics**, **machine learning**, and **deep learning**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> I am here to make a valuable contribution to the developer community.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mage%20Light%20Skin%20Tone.png" alt="Mage Light Skin Tone" width="25" height="25" /> Stay calm and [Follow me!](https://github.com/devcaiada)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="25" height="25" /> **It's dangerous to go alone [Follow me!](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdevcaiada)**
 
 <img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> &nbsp;Pinned Repositories
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" height="30" /> &nbsp;Pinned Repositories
 
 <table>
 	<thead>
@@ -57,7 +59,7 @@
       </td>
 			<td valign="top">
 			<h3>Azure Cognitive Search</h3>
-			<p>Passo a passo para criação de indexador de pesquisa junto ao serviço de IA de pesquisa da Azure Microsoft.</p>
+			<p>Step-by-step guide to creating a search indexer with Azure Microsoft's search AI service.</p>
 			<a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html">
  			 	<img src="https://img.shields.io/badge/MS%20Learning-4169E1?style=for-the-badge" alt="Material de Apoio">
 			</a>
@@ -73,13 +75,13 @@
 			<h3>ETL Netflix</h3>
 			<p>A python study with ETL using Netflix data.</p>
 			<a href="https://github.com/devcaiada/etl-netflix/tree/main">
- 			 	<img src="https://img.shields.io/badge/Ver%20material-FFC222?style=for-the-badge" alt="Material de Apoio">
+ 			 	<img src="https://img.shields.io/badge/View%20Project-FFC222?style=for-the-badge" alt="Material de Apoio">
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<h2>Contact Me</h2>
+## &nbsp;Contact Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="30" height="30" /> 
 <div align="left">
 <p>
 <a href="mailto:dev.caiada@gmail.com">
