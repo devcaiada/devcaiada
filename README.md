@@ -1,4 +1,4 @@
-<div align="center">
+s<div align="center">
   <img height="350em" src="https://github.com/devcaiada/devcaiada/blob/main/assets/Banner.jpg?raw=true"/>
 </div>
 
@@ -37,7 +37,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I am a technology enthusiast, consistently seeking to expand my knowledge.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Currently, I am studying **statistics**, **machine learning**, and **deep learning**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> I am here to make a valuable contribution to the developer community.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="25" height="25" /> **It's dangerous to go alone [Follow me!](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdevcaiada)**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Light%20Skin%20Tone.png" alt="Man Mage Light Skin Tone" width="25" height="25" /> **It's dangerous to go alone! [Follow me!](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fdevcaiada)**
 
 <img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
