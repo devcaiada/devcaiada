@@ -1,4 +1,4 @@
-s<div align="center">
+<div align="center">
   <img height="350em" src="https://github.com/devcaiada/devcaiada/blob/main/assets/Banner.jpg?raw=true"/>
 </div>
 
