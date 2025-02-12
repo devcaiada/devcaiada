@@ -23,7 +23,7 @@
 <img src="https://github.com/devcaiada/devcaiada/blob/main/assets/LineBar.png?raw=true" width="100%" height="8px"/>
 
 
-## &nbsp;My Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="35" height="35" />
+## &nbsp;My Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
 
 <img src="https://github.com/devcaiada/devcaiada/blob/main/assets/stack.png?raw=true" />
 
