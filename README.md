@@ -29,7 +29,7 @@
 
 <div><br /></div>
 
-## &nbsp;About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Squid.png" alt="Squid" width="40" height="40" />
+## &nbsp;About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="40" height="40" />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="30" height="30" /> Hello there! My name is **Caio Arruda** and I am a **Data Analyst**. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="30" height="30" /> My current goal is become a **Data Scientist**.<br />
