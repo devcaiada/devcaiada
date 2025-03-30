@@ -52,15 +52,15 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/devcaiada/search-indexer-azure">
+			<a href="https://github.com/devcaiada/hackathon-ms/tree/main">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
       </a>
       </td>
 			<td valign="top">
-			<h3>Azure Cognitive Search</h3>
-			<p>Step-by-step guide to creating a search indexer with Azure Microsoft's search AI service.</p>
-			<a href="https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html">
- 			 	<img src="https://img.shields.io/badge/MS%20Learning-4169E1?style=for-the-badge" alt="Material de Apoio">
+			<h3>Connection.ai</h3>
+			<p>🏆 2nd Place Winner – Microsoft Innovation Challenge Hackathon!</p>
+			<a href="https://github.com/devcaiada/hackathon-ms/tree/main">
+ 			 	<img src="https://img.shields.io/badge/View%20project-4169E1?style=for-the-badge" alt="Projeto github">
 			</a>
 			</td>
 		</tr>
@@ -74,7 +74,7 @@
 			<h3>ETL Netflix</h3>
 			<p>A python study with ETL using Netflix data.</p>
 			<a href="https://github.com/devcaiada/etl-netflix/tree/main">
- 			 	<img src="https://img.shields.io/badge/View%20Project-FFC222?style=for-the-badge" alt="Material de Apoio">
+ 			 	<img src="https://img.shields.io/badge/View%20Project-FFC222?style=for-the-badge" alt="Projeto github">
 			</td>
 		</tr>
 	</tbody>
