@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="350em" src="https://github.com/devcaiada/devcaiada/blob/main/assets/Banner.jpg?raw=true"/>
+  <img height="350em" src="https://github.com/devcaiada/devcaiada/blob/main/assets/Banner.png?raw=true"/>
 </div>
 
 <h3 align="center">
-  Data Scientist • ML Specialist
+  Data & AI Engineer • ML Specialist
 </h3>
 
 <div align='center'>
