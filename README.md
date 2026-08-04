@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Data & AI Engineer • ML Specialist
+  Data & AI Engineer
 </h3>
 
 <div align='center'>
