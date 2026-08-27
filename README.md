@@ -31,8 +31,8 @@
 
 ## &nbsp;About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="40" height="40" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="30" height="30" /> Hello there! My name is **Caio Arruda** and I am a **Data Analyst**. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="30" height="30" /> My current goal is become a **Data Scientist**.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Light%20Skin%20Tone.png" alt="Vulcan Salute Light Skin Tone" width="30" height="30" /> Hello there! My name is **Caio Arruda** and I am a **Data & AI Analyst**. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Scientist%20Light%20Skin%20Tone.png" alt="Man Scientist Light Skin Tone" width="30" height="30" /> My current goal is to become an **AI Architect**.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" /> My main stack is **Python**.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> I am a technology enthusiast, consistently seeking to expand my knowledge.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="30" height="30" /> Currently, I am studying **statistics**, **machine learning**, and **deep learning**.
@@ -52,6 +52,20 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/devcaiada/devbible">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+      </a>
+      </td>
+			<td valign="top">
+			<h3>DevBible 🛡️</h3>
+			<p>The ultimate open-source development checklist, CLI auditor &amp; AI agent skills guide for modern builders and vibecoders.</p>
+			<a href="https://github.com/devcaiada/devbible">
+ 			 	<img src="https://img.shields.io/badge/View%20Project-00B4D8?style=for-the-badge" alt="Projeto github">
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/devcaiada/hackathon-ms/tree/main">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
       </a>
@@ -62,19 +76,6 @@
 			<a href="https://github.com/devcaiada/hackathon-ms/tree/main">
  			 	<img src="https://img.shields.io/badge/View%20project-4169E1?style=for-the-badge" alt="Projeto github">
 			</a>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/devcaiada/etl-netflix/tree/main">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      </a>
-      </td>
-			<td valign="top">
-			<h3>ETL Netflix</h3>
-			<p>A python study with ETL using Netflix data.</p>
-			<a href="https://github.com/devcaiada/etl-netflix/tree/main">
- 			 	<img src="https://img.shields.io/badge/View%20Project-FFC222?style=for-the-badge" alt="Projeto github">
 			</td>
 		</tr>
 	</tbody>
