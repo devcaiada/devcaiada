@@ -56,8 +56,8 @@
 ## &nbsp;Certifications & Credentials <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Medal" width="38" height="38" />
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Developer Associate" />
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Engineer Associate" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Developer Associate" />
   <img src="https://img.shields.io/badge/Specialist-Machine%20Learning-9d00ff?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning Specialist" />
   <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20(v2)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics" />
   <img src="https://img.shields.io/badge/Google-Project%20Management%20Professional-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Project Management" />
@@ -115,34 +115,6 @@
         <p>AI-driven cybersecurity &amp; architecture analysis agent written in Python that inspects software architecture diagrams and specifications to identify security vulnerabilities and mitigation strategies.</p>
         <a href="https://github.com/devcaiada/vulnerability-detection-architectures">
           <img src="https://img.shields.io/badge/View%20Project-9d00ff?style=for-the-badge" alt="View Vulnerability Detection Architectures" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="90"><br />
-        <a href="https://github.com/devcaiada/unit-test-langchain">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" />
-        </a>
-      </td>
-      <td valign="top">
-        <h3>Automated Unit Test Agent (LangChain &amp; Azure OpenAI) 🧪</h3>
-        <p>LLM orchestration pipeline combining Python, LangChain, and Azure ChatGPT to automatically generate, validate, and refine unit tests for software projects.</p>
-        <a href="https://github.com/devcaiada/unit-test-langchain">
-          <img src="https://img.shields.io/badge/View%20Project-00B4D8?style=for-the-badge" alt="View Unit Test LangChain" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="90"><br />
-        <a href="https://github.com/devcaiada/azure-custom-chatbot">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="55" />
-        </a>
-      </td>
-      <td valign="top">
-        <h3>Azure Custom RAG Chatbot &amp; Cloud Data Pipelines ☁️</h3>
-        <p>Document-grounded conversational AI built with RAG on Microsoft Azure, alongside automated cloud data engineering &amp; cost-monitoring workflows (<a href="https://github.com/devcaiada/data-factor-monitor-price">Azure Data Factory Monitor</a>).</p>
-        <a href="https://github.com/devcaiada/azure-custom-chatbot">
-          <img src="https://img.shields.io/badge/View%20Project-4169E1?style=for-the-badge" alt="View Azure Custom Chatbot" />
         </a>
       </td>
     </tr>
